@@ -1,5 +1,15 @@
 # A1 – Portfolio and product Analysis
 
+## Decide
+### 1. Homepage Identity
+This homepage needs to show what projects are currently being executed, revised, and completed. There needs to be links to descriptions of those projects with drawings and the processes used in the projects. Additionally there needs to be a clear about me and resume link that is easy for employers and colleagues to be able to navigate to if they are interested. The homepage should professionally formatted in a manner that is appropriate and contains content like pictures and videos that make viewers want to explore my work.
+
+### 2. One Intentional Customization
+One intentional customization that I changed is my headings/links. I want viewers to have a simplistic yet informative experience while looking at my portfolio and by having my projects, about me, resume, and contacts all easily accessible this will encourage more interaction and connections.
+
+### 3. Document Standard
+All material completed with be to the fullest quality and extent this includes technical data and calculations provided as well as schematics/drawings for projects as required for viewers to fully understand what the clear analysis, strategy, and solution is.
+
 ## Objective
 Our Objective is to Analyze the portfolios and determine if they satisfy the functional requirements to include navigability, reproducibility, evidence of reasoning, and professional tone to further our understanding of what a engineering portfolio is for. As well we will analyze a product and its constraints to better our skills of problem solving.
 
@@ -82,16 +92,5 @@ We can assume that the force applied is proportional to the output force and the
 
 **Design Decision Analysis:**
 I think it is clear that the original engineer(s) decided to make a large angle offset on the handle and blade. This was most likely done to increase comfort for users but also make the function more advantageous by allowing the scissors to be opened up more in the same motion as a pair of straight scissors would.
-
-
-## Decide
-### 1. Homepage Identity
-This homepage needs to show what projects are currently being executed, revised, and completed. There needs to be links to descriptions of those projects with drawings and the processes used in the projects. Additionally there needs to be a clear about me and resume link that is easy for employers and colleagues to be able to navigate to if they are interested. The homepage should professionally formatted in a manner that is appropriate and contains content like pictures and videos that make viewers want to explore my work.
-
-### 2. One Intentional Customization
-One intentional customization that I changed is my headings/links. I want viewers to have a simplistic yet informative experience while looking at my portfolio and by having my projects, about me, resume, and contacts all easily accessible this will encourage more interaction and connections.
-
-### 3. Document Standard
-All material completed with be to the fullest quality and extent this includes technical data and calculations provided as well as schematics/drawings for projects as required for viewers to fully understand what the clear analysis, strategy, and solution is.
 
 ## Communicate
