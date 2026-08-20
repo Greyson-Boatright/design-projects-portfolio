@@ -63,6 +63,7 @@ We can assume that the force applied is proportional to the output force and the
 
 #### c. Components
 ##### Component 1: Handle ![Handle](Handle.jpeg)
+
 **Function:** With the handle being offset from the blade it allows the pair of scissors to be opened a greater distance.
 ##### Component 2: Fulcrum ![Fulcrum](Fulcrum.jpeg)
 **Function:** The function of the fulcrum is gives the product the necessary ability to be open and closed while still holding together tight enough to apply a shear force to an object. 
