@@ -93,3 +93,6 @@ Source: Kiousis, P. D., Papadopoulos, P. G., & Xenidis, H. (2010). Truss modelin
 The expected failure mode of a pin is yielding. I read about the strength and properties of structural pins in a research document by David Duerr. In the document there was a test done on a series of varying diameter pins and some of the same diameter pins on the same area on which they were put through with a increasing force applied to them. From this data gathered when analyzing I found that pins of the same diameter but different plate area had nearly identical failure loads. The real difference was the pin diameter that made the difference in how much load the pin could have applied before failure. So when we look at reducing the failure under larger loads, instead of simply using larger pins which could impose a problem on what the size of the material the pins are being drove through. We can change the type of connection under which the pins are put, by incorporating a double pin connection in the design can allow for a smaller diameter pin to withstand a larger load.
 
 Source: Duerr, D. (2025). Strength of round structural pins. Journal of Structural Design and Construction Practice, 30(1). https://doi.org/10.1061/JSDCCC.SCENG-1609
+
+## Time spent
+I spent approximately 12 hours working on this assignment.
