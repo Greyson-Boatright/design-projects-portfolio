@@ -73,3 +73,23 @@ As seen below are screenshots of the properties of the parts in CAD directly fro
 
 ### Lessons learned
 I think the biggest take away in this assignment was proper planning. Reading through the requirements of the entire design was crucial to me being able to complete it. I had to be mindful of the varying safety factor requirements and different materials used for both the pins and the truss. I also learned that so much of engineering is cumulative, because of my previous experience in statics and mathematics I was able to apply concepts like the method of sections to the truss to find max forces and static equilibrium in all my joints.
+
+
+## Likelihood of different failure modes in truss components
+
+### Truss members
+
+#### Tension
+For truss members in tension I looked at an analysis of a wooden truss that failed after being in place for over 100 years. The expected failure method of a truss member in tension is fracturing, especially if the material the truss member is constructed out of is wood, which is a brittle material when placed under tension. The reason for this is because over long periods of time with constant loads applied materials have creep "set in", which is essentially where a material is deformed slowly. As our material is deformed over time then that can lead to failure in members. In the case of the truss I was researching in the article, one simple design modification that could have been made was to simply use a metal instead of wood, that is the easy answer to the failure. However because wood is cheap and effective, metal might have not been an option so another modification could have been to brace the long spanning loads more periodically or but more vertical support pieces to disperse these huge triangles into smaller ones spreading forces equally.
+
+Source: Duntemann, J. F., Kristie, R. J., Greve, B. R., & Hallman, D. J. (2003). Failure Analysis of 100-Year Old Timber Roof Truss. Forensic Engineering: Proceedings of the Third Congress, October 19–21, 2003, San Diego, California, 532–543. https://doi.org/10.1061/40692(241)52
+
+#### Compression
+I looked at a publication about truss members(concrete) in compression and I found that the the failure of these concrete truss members was buckling. Concrete is a brittle material when it is under compression. Using a concepts learned in materials we can say that when a material is loaded axially, the it will tend to transverse laterally. One of the design modifications we can make to a concrete truss in compression is reinforce it with metal so it is able to deform more elastically.
+
+Source: Kiousis, P. D., Papadopoulos, P. G., & Xenidis, H. (2010). Truss modeling of concrete columns in compression. Journal of Engineering Mechanics, 136(8), 980–988. https://doi.org/10.1061/(ASCE)EM.1943-7889.0000142
+
+### Pin connections
+The expected failure mode of a pin is yielding. I read about the strength and properties of structural pins in a research document by David Duerr. In the document there was a test done on a series of varying diameter pins and some of the same diameter pins on the same area on which they were put through with a increasing force applied to them. From this data gathered when analyzing I found that pins of the same diameter but different plate area had nearly identical failure loads. The real difference was the pin diameter that made the difference in how much load the pin could have applied before failure. So when we look at reducing the failure under larger loads, instead of simply using larger pins which could impose a problem on what the size of the material the pins are being drove through. We can change the type of connection under which the pins are put, by incorporating a double pin connection in the design can allow for a smaller diameter pin to withstand a larger load.
+
+Source: Duerr, D. (2025). Strength of round structural pins. Journal of Structural Design and Construction Practice, 30(1). https://doi.org/10.1061/JSDCCC.SCENG-1609
