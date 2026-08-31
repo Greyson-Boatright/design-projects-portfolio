@@ -96,3 +96,9 @@ Source: Duerr, D. (2025). Strength of round structural pins. Journal of Structur
 
 ## Time spent
 I spent approximately 12 hours working on this assignment.
+
+## CAD Files
+[Pin CAD Model (pina2.prt)](./pina2.prt)
+[Truss CAD Model (truss.prt)](./truss.prt)
+
+
