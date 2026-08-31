@@ -98,8 +98,8 @@ Source: Duerr, D. (2025). Strength of round structural pins. Journal of Structur
 I spent approximately 12 hours working on this assignment.
 
 ## CAD Files
-[Download the Truss Creo Part](./cad/truss.prt.4)
+[Download the Truss Creo Part](./truss.prt.4)
 
-[Download the Pin Creo Part](./cad/pina2.prt.5)
+[Download the Pin Creo Part](./pina2.prt.5)
 
 
