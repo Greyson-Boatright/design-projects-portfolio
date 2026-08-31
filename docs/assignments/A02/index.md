@@ -99,8 +99,8 @@ I spent approximately 12 hours working on this assignment.
 
 ## CAD Files
 ## CAD Files
-* <a href="./pina2.prt" download>Download Pin CAD Model (pina2.prt)</a>
+[Download the Truss Creo Part](./cad/truss.prt.4)
 
-* <a href="./truss.prt" download>Download Truss CAD Model (truss.prt)</a>
+[Download the Pin Creo Part](./cad/pina2.prt.5)
 
 
