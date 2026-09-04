@@ -12,3 +12,9 @@ The goal of this assignment is to design a bar with a circular cross section giv
 
 ## Communicate
 
+picture
+<img src="a3-1.png" alt="initial design" width="400">
+
+cad
+[Download the Fusion Bar](./A3.f3d)
+
