@@ -46,5 +46,5 @@ I learned how parametric design can be used to model, this is something we did i
 Lets say I changed my force to 400 lb, my height to 1in and width to 1in and kept the material of aluminum the same , meaning Young's Modulus for aluminum (10x10^6) remains the same. I think the length will increase because I raised the force which makes the length larger because its a bigger fraction and the area increases in the numerator and its directly proportional. I did the calculation on my calculator and our new length would be 225in.
 
 ### CAD File
-[Download the Fusion Bar](./A3-1.f3d)
+[Download the Fusion Bar](./a3-1.f3d)
 
