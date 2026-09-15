@@ -1,4 +1,4 @@
-# A4 – [Topic]
+# A4 – Motor Mount
 
 ## Objective
 
@@ -46,20 +46,24 @@ I started on the holed for feature 1 which were four holes evenly spaced on a 22
 ## Communicate
 
 ### Drawing
-Below is a 
+Below is a picture and downloadable link to a drawing of my motor mount with different views and the required dimension of the part.
+<img src="a4-20.png" alt="initial design" width="400">
+
+[Download the Motor Mount Drawing](./a4-1Drawing.pdf)
 
 ### Lessons Learned
+I thought that a lot of the lessons learned in this assignment were trying to understand different approaches to design and that there isn't necessarily one way or the best way. It depends on many factors. Below I included a picture of the motor with its drawing. I learned that I had to base some decisions on the pre-existing motor and its dimension. I researched two motor mounts as well with their pictures and links below. One is from Walmart and the other was from a different company. I tried to analyze the design of each and determine advantages and disadvantages of each to see what I could use in my design. I really thought about making elongated holes on the design to allow for it to be positioned in different ways but decided not to because I thought this could cause problems if vibrations occurred. I spent approximately 6 hours working on this assignment.
 
+<img src="a4-1.png" alt="initial design" width="400">
+<img src="a4-2.png" alt="initial design" width="400">
+<img src="a4-3.png" alt="initial design" width="400">
+<img src="a4-4.png" alt="initial design" width="400">
 
-websites
+### Websites for Mounts
+
 https://www.walmart.com/ip/BERTDOMD-Gear-Motor-Mounting-Bracket-Motor-Mounting-Holder-Stepper-Motor-Mounting-Stand-Motor-Holder-Motor-Rack-Motor-L-Shaped-Bracket/14093907278?wmlspartner=wlpa&selectedSellerId=102708123&selectedOfferId=8792B7A3E359356EA49348191686AEC9&conditionGroupCode=1&veh=seo_fpl&cn=google
 
 https://vxb.com/products/heavy-duty-l-shaped-dc-motor-mounting-bracket-made?s=rec&w=p
 
 ### CAD FIle
 [Download the Motor Mount](./a4-1.f3d)
-
-pictures
-<img src="a3-12.png" alt="initial design" width="400">
-
-
