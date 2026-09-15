@@ -49,7 +49,7 @@ I started on the holed for feature 1 which were four holes evenly spaced on a 22
 Below is a picture and downloadable link to a drawing of my motor mount with different views and the required dimension of the part.
 <img src="a4-20.png" alt="initial design" width="400">
 
-[Download the Motor Mount Drawing](./a4-1Drawing.pdf)
+[Download the Motor Mount Drawing](./A4-1d.pdf)
 
 ### Lessons Learned
 I thought that a lot of the lessons learned in this assignment were trying to understand different approaches to design and that there isn't necessarily one way or the best way. It depends on many factors. Below I included a picture of the motor with its drawing. I learned that I had to base some decisions on the pre-existing motor and its dimension. I researched two motor mounts as well with their pictures and links below. One is from Walmart and the other was from a different company. I tried to analyze the design of each and determine advantages and disadvantages of each to see what I could use in my design. I really thought about making elongated holes on the design to allow for it to be positioned in different ways but decided not to because I thought this could cause problems if vibrations occurred. I spent approximately 6 hours working on this assignment.
