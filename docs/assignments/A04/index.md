@@ -66,4 +66,4 @@ https://www.walmart.com/ip/BERTDOMD-Gear-Motor-Mounting-Bracket-Motor-Mounting-H
 https://vxb.com/products/heavy-duty-l-shaped-dc-motor-mounting-bracket-made?s=rec&w=p
 
 ### CAD FIle
-[Download the Motor Mount](./a4-1.f3d)
+[Download the Motor Mount](./A4-1.f3d)
