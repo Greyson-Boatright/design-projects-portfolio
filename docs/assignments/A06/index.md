@@ -31,11 +31,13 @@ For the parametric design of the T-beam bracket, I designed each feature with di
 ## Decide
 
 ### Drawing
-<img src="a6-17.png" alt="initial design" width="400">
+I generated a drawing of the bracket in Fusion using third angle projection, I assigned dimensions that were essential to the model and I referenced the machinerys handbook to give tolerances to the most important fits of the drawing. I did not have the college of engineering templete for drawings in fusion so I tried to model my blocks similar to it and included the tolerance block.
+<img src="a6-18.png" alt="initial design" width="400">
 
 ## Communicate
 
 ### Reflections
+
 ### Lessons Learned
 
 ### 2157 Students only: Drawings
