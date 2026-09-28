@@ -8,7 +8,7 @@ In this assignment I need to create a model and multi-view engineering drawing o
 ## Analyze
 
 ### Parametric Design
-For the parametric design of the T-beam bracket, I designed each feature with dimensions I calculated in A5 and I went through features sequentially in Fusion. I started by assigning Steel ASTM A36 to the model and for each feature I inputted the correct dimension to the variables, after assigning the variables I created a sketch of the features and extruded them all while assigning the variables to the dimensions. When creating my user defined functions it was more difficult to write an equation for my dimensions because in A5 a lot of my dimensions were rounded up from the calculated requirement. However because I assigned variables to all the dimensions it allows me to very easily change the whole models or a specific feature without having to redraw and extrude a feature.
+For the parametric design of the T-beam bracket, I designed each feature with dimensions I calculated in A5 and I went through features sequentially in Fusion. I started by assigning Steel ASTM A36 to the model and for each feature I inputted the correct dimension to the variables, after assigning the variables I created a sketch of the features and extruded them all while assigning the variables to the dimensions. When creating my user defined functions it was more difficult to write an equation for my dimensions because in A5 a lot of my dimensions were rounded up from the calculated requirement. However because I assigned variables to all the dimensions it allows me to very easily change the whole models or a specific feature without having to redraw and extrude a feature. I was able to incorporate some formulas into the parametric design.
 <img src="a6-1.png" alt="initial design" width="400">
 <img src="a6-2.png" alt="initial design" width="400">
 <img src="a6-3.png" alt="initial design" width="400">
@@ -16,7 +16,7 @@ For the parametric design of the T-beam bracket, I designed each feature with di
 <img src="a6-19.png" alt="initial design" width="400">
 <img src="a6-20.png" alt="initial design" width="400">
 <img src="a6-6.png" alt="initial design" width="400">
-<img src="a6-7.png" alt="initial design" width="400">
+<img src="a6-21.png" alt="initial design" width="400">
 <img src="a6-8.png" alt="initial design" width="400">
 <img src="a6-9.png" alt="initial design" width="400">
 <img src="a6-10.png" alt="initial design" width="400">
@@ -38,6 +38,7 @@ I generated a drawing of the bracket in Fusion using third angle projection, I a
 ## Communicate
 
 ### Reflections
+One equation I used in my design was the "h" dimension for feature B, through my analysis I was able to figure out that the strength equations was the governing equation in dimensions. In fusion I set some baseline variables like the force and allowable stress. My equation for the "h" dimension of feature b was h=ceil(( P / ( b_B * stress ) ) / 0.0625 in) * 0.0625 in. As you can see I have the normal equation for the dimension according to our stress but I knew I wanted to round up so using the ceil function I was able to round up from the minimum value to the next 16th of an inch. On dimension "d" of feature d I gave it a dimension of 1.5 plus 0.006 minus 0.000 on the tolerance, this dimension has a very tight tolerance because that is essentially the dimension c on the beam itself. the tolerance is so tight because we need to have an sliding fit (RC-2) between the beam and bracket. This is a very critical feature because if the dimension is too small it will not be able to fit on the beam. if it is just big enough to fit but exactly the size of the beam it will not be able to slide and if it is too big there could be issues of it not sliding effectively or even coming off. The diameter of feature A I gave a dimension of 0.81 plus/minus 10 thousands. this is not a very tight tolerance at all due to the fact it is a non-critical feature. the value is already rounded up a small amount from the required minimum value to withstand the force and plus/minus 10 thousands will not change the strength, deflection, or fit.
 
 ### Lessons Learned
 
