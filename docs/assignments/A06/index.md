@@ -70,7 +70,7 @@ In this assignment I learned that setting tolerances is vital to a part and if t
 
 [Download the Link](./A6-Link.f3d)
 ### CAD Drawings
-[Download the Bracket Drawing](./A6 drawing.pdf)
+[Download the Bracket Drawing](./A6-Drawing.pdf)
 
-[Download the Link Drawing](./A6-Link Drawing.pdf)
+[Download the Link Drawing](./A6-Link-Drawing.pdf)
 
