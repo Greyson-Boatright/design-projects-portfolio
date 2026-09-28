@@ -44,13 +44,19 @@ One equation I used in my design was the "h" dimension for feature B, through my
 
 ### 2157 Students only: Drawings
 #### Parametric Design
+I opened up a new part design in Fusion for the link, I set some variables I already knew from my previous calculations and after which I wrote an equation for the link's thickness to meet the requirement for both strength and stiffness and rounded it up to the next 16th of an inch. One of the key design choices made in making the length was selecting a length that ensured the max deflection was not met and also making the width wide enough so the holes would fit on the link.
+<img src="a6-22.png" alt="initial design" width="400">
+<img src="a6-23.png" alt="initial design" width="400">
+<img src="a6-24.png" alt="initial design" width="400">
+<img src="a6-25.png" alt="initial design" width="400">
+<img src="a6-26.png" alt="initial design" width="400">
+<img src="a6-27.png" alt="initial design" width="400">
+
 #### Drawing
+Once the link was finished I applied the same standards to the drawing as I did for the bracket and placed each dimension on the drawings. The two most important tolerances on the link were the holes because they were the most critical features in terms of having a sliding fit and a light assembly pressure fit. I noted that each holes were thru holes and the .938 hole was to be mounted on feature A of the bracket.
+<img src="a6-28.png" alt="initial design" width="400">
 #### Reflection
-
-
-picture format
-
-<img src="a5-14.png" alt="initial design" width="400">
+In this assignment I learned that setting tolerances is vital to a part and if tolerances are not set by priority then it can throw off the dimensions of a part. Ultimately we have to take a look at the function of a part and the way it is fastened to be able to decide its geometry. Some features need to slide, some need to be press fitted, and there is many more fits to take into account. Calculating these fits and tolerances allows for better communication to the manufacturer to increase efficiency. I spent about 6 hours working on this assignment.
 
 cad format
 
