@@ -13,7 +13,8 @@ For the parametric design of the T-beam bracket, I designed each feature with di
 <img src="a6-2.png" alt="initial design" width="400">
 <img src="a6-3.png" alt="initial design" width="400">
 <img src="a6-4.png" alt="initial design" width="400">
-<img src="a6-5.png" alt="initial design" width="400">
+<img src="a6-19.png" alt="initial design" width="400">
+<img src="a6-20.png" alt="initial design" width="400">
 <img src="a6-6.png" alt="initial design" width="400">
 <img src="a6-7.png" alt="initial design" width="400">
 <img src="a6-8.png" alt="initial design" width="400">
