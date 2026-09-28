@@ -9,7 +9,8 @@ In this assignment I need to create a model and multi-view engineering drawing o
 
 ### Parametric Design
 For the parametric design of the T-beam bracket, I designed each feature with dimensions I calculated in A5 and I went through features sequentially in Fusion. I started by assigning Steel ASTM A36 to the model and for each feature I inputted the correct dimension to the variables, after assigning the variables I created a sketch of the features and extruded them all while assigning the variables to the dimensions. When creating my user defined functions it was more difficult to write an equation for my dimensions because in A5 a lot of my dimensions were rounded up from the calculated requirement. However because I assigned variables to all the dimensions it allows me to very easily change the whole models or a specific feature without having to redraw and extrude a feature. I was able to incorporate some formulas into the parametric design.
-<img src="a6-1.png" alt="initial design" width="400">
+
+<img src="a6-1.png" alt="initial design" width="400"> 
 <img src="a6-2.png" alt="initial design" width="400">
 <img src="a6-3.png" alt="initial design" width="400">
 <img src="a6-4.png" alt="initial design" width="400">
@@ -33,6 +34,7 @@ For the parametric design of the T-beam bracket, I designed each feature with di
 
 ### Drawing
 I generated a drawing of the bracket in Fusion using third angle projection, I assigned dimensions that were essential to the model and I referenced the machinerys handbook to give tolerances to the most important fits of the drawing. I did not have the college of engineering templete for drawings in fusion so I tried to model my blocks similar to it and included the tolerance block.
+
 <img src="a6-18.png" alt="initial design" width="400">
 
 ## Communicate
@@ -45,6 +47,7 @@ One equation I used in my design was the "h" dimension for feature B, through my
 ### 2157 Students only: Drawings
 #### Parametric Design
 I opened up a new part design in Fusion for the link, I set some variables I already knew from my previous calculations and after which I wrote an equation for the link's thickness to meet the requirement for both strength and stiffness and rounded it up to the next 16th of an inch. One of the key design choices made in making the length was selecting a length that ensured the max deflection was not met and also making the width wide enough so the holes would fit on the link.
+
 <img src="a6-22.png" alt="initial design" width="400">
 <img src="a6-23.png" alt="initial design" width="400">
 <img src="a6-24.png" alt="initial design" width="400">
@@ -54,11 +57,20 @@ I opened up a new part design in Fusion for the link, I set some variables I alr
 
 #### Drawing
 Once the link was finished I applied the same standards to the drawing as I did for the bracket and placed each dimension on the drawings. The two most important tolerances on the link were the holes because they were the most critical features in terms of having a sliding fit and a light assembly pressure fit. I noted that each holes were thru holes and the .938 hole was to be mounted on feature A of the bracket.
-<img src="a6-28.png" alt="initial design" width="400">
+
+<img src="a6-29.png" alt="initial design" width="400">
+
 #### Reflection
 In this assignment I learned that setting tolerances is vital to a part and if tolerances are not set by priority then it can throw off the dimensions of a part. Ultimately we have to take a look at the function of a part and the way it is fastened to be able to decide its geometry. Some features need to slide, some need to be press fitted, and there is many more fits to take into account. Calculating these fits and tolerances allows for better communication to the manufacturer to increase efficiency. I spent about 6 hours working on this assignment.
 
-cad format
+
 
 ### CAD File
-[Download the Fusion Bar](./a3-1.f3d)
+[Download the Bracket](./A6.f3d)
+
+[Download the Link](./A6-Link.f3d)
+### CAD Drawings
+[Download the Bracket Drawing](./A6 drawing.pdf)
+
+[Download the Link Drawing](./A6-Link Drawing.pdf)
+
