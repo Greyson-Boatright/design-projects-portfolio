@@ -11,6 +11,7 @@ For this assignment we are going for a safety factor of 4, on both the bracket a
 
 ## Decide
 Each set of FEA will generally follow the same process, they will have the same constraints and loads as seen below. I will make adjustments with parameters. The first analysis will be with the mesh setting at 10%, the second analysis will be at about 7% and right at the end we will do a fine mesh analysis at about 2% to check our convergence.
+
 <img src="a7-1.png" alt="initial design" width="350"> 
 <img src="a7-2.png" alt="initial design" width="350"> 
 <img src="a7-5.png" alt="initial design" width="350"> 
