@@ -50,11 +50,11 @@ I modeled the assembly in Fusion, I applied Steel ASTM A36 to the model and I wa
 [Download the Gear Box Assembly](./A8.f3z)
 
 ### CAD Drawings
-[Download the Gear Box Assembly Drawing](./A8 Assembly Drawing.pdf)
-[Download the Bearing 1 Drawing](./Bearing 1 Drawing.pdf)
-[Download the Bearing 2 Drawing](./Bearing 2 Drawing.pdf)
-[Download the Gear 1 Drawing](./Gear 1 Drawing.pdf)
-[Download the Gear 2 Drawing](./Gear 2 Drawing.pdf)
-[Download the Shaft 1 Drawing](./Shaft1 Drawing.pdf)
-[Download the Shaft 2 Drawing](./Shaft2 Drawing.pdf)
+- [Download the Gear Box Assembly Drawing](<./A8 Assembly Drawing.pdf>)
+- [Download the Bearing 1 Drawing](<./Bearing 1 Drawing.pdf>)
+- [Download the Bearing 2 Drawing](<./Bearing 2 Drawing.pdf>)
+- [Download the Gear 1 Drawing](<./Gear 1 Drawing.pdf>)
+- [Download the Gear 2 Drawing](<./Gear 2 Drawing.pdf>)
+- [Download the Shaft 1 Drawing](<./Shaft1 Drawing.pdf>)
+- [Download the Shaft 2 Drawing](<./Shaft2 Drawing.pdf>)
 
