@@ -12,6 +12,7 @@ I started with the input shaft with my given parameters, I used the given values
 
 ### Output Shaft
 Similarly to the Input shaft, I drew a FBD of the output shaft with all knowns. I went ahead just like the previous shaft and found the shear stress due to torsion was 407.44 PSI, which was lower than the input shaft. Overall the diameter was sufficient enough and no changes were neccessary.
+
 <img src="a8-5.png" alt="initial design" width="400">
 
 
