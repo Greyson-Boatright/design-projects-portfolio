@@ -44,6 +44,8 @@ I modeled the assembly in Fusion, I applied Steel ASTM A36 to the model and I wa
 <img src="a8-2.png" alt="initial design" width="400">
 <img src="a8-3.png" alt="initial design" width="400">
 
+### Lessons Learned
+In this assignment I learned that a majoritity of what we done is cumalitive, from calculatiosn to CAD, it all builds off one another. I learned that you need to pay close attention to tolerances and fits when designing, essentially how components connect. I spent 6 hours working on this assignment.
 
 
 ### CAD File
