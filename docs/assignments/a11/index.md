@@ -16,6 +16,7 @@ _Reference your concept selection (Pugh matrix) here. How does this design follo
 #### Motor Selection
 
 When selecting the motor for the tester, it had to meet the requirement of 2kn of force, in total, I broke this up as one motor was responsible for one leadscrew and assuming this force was disturbed equally that mean 1kn for each. From previous calculations the required torque needed to be achieved was 1.019N*m and the range of the screw speed was between 0.63 to 31.5 RPM. It took me a while to find a suitable motor for this project but I ended up going with compact DC gear motor that meet the required values I was looking for according to the product details and speed torque curve.
+
 <img src="GB1.png" alt="initial design" width="400">
 <img src="GB2.png" alt="initial design" width="400">
 <img src="GB3.png" alt="initial design" width="400">
@@ -34,7 +35,7 @@ The bracket is pretty straight forward, after doing some calculations to find th
 <img src="GB10.png" alt="initial design" width="400">
 <img src="GB11.png" alt="initial design" width="400">
 
-[Download the Motor Mount Bracket](./Motor Mount A11.f3z)
+[Download the Motor Mount Bracket](./Motor%20Mount%20A11.f3z)
 
 #### Coupler Selection
 
