@@ -4,12 +4,7 @@
 
 
 ## Analyze
-
-
-## Decide
-_Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
-
-## Communicate
+This week's assignment is a continuation of the design and assembly of a tensile tester. This portion will focus on the motor selection to drive the lead screws, frame, mounting, and clamping of the tensile tester.
 
 ### Motor Selection & Attachments: Greyson Boatright
 
@@ -50,8 +45,19 @@ Link for coupler components
 
 Motor Hub(6408k13 at $14.71 each): https://www.mcmaster.com/6408K13/
 
-Leadscrew Hub(6408k119 at $14.73 each): https://www.mcmaster.com/6408K119/  
+### Analyzing and Designing the Frame - J.V. Muron
 
-Flexible Spider (6408k74 at $13.06 each): https://www.mcmaster.com/6408K74/
+For the design of the frame, the way the frame is assembled is important to how the machine will be affected under load. An FBD of the top bar and vertical runners is conducted to pick the proper fastening technique for the 40 Series bars from the previous assignment.
+
+Looking at the mock-up assembly, there is no clear way to assemble the top piece practically. To solve this issue, the header bar length will be extended **over** the vertical runners and **reorientated** to have the flat side on top of the vertical runners. This orientation allows for the top runner to be calculated as a beam, while also increasing the bending moment, due to the larger cross section. The new length of the top runner is **17.278 inches minimum**. There is extra material so this is not a problem. The new length of the bar will be **18.258 inches**.
+
+#### FBD of Top Bar and Vertical Runners
+Treating the top runner as a bar under transverse, torsional, 
 
 
+## Decide
+
+### Frame Assembly Adjustments - J.V. Muron
+
+
+## Communicate
